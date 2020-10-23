@@ -25,4 +25,10 @@ After the installation, You just need to open https://web.mashov.info/students/ 
 Oh, and it also works on BigBlueButton because I tested it there, and why not?
 So... enjoy...? I guess.
 
+## Screenshots
+
 <img src="images/screenshot1.jpg" height="350px"/>
+
+<img src="images/screenshot2.png" width="700px"/>
+
+<img src="images/screenshot3.png" height="350px"/>
