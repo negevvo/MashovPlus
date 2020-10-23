@@ -21,7 +21,7 @@ I made a powerful algorithm so real-time changes to the page (such as new messag
 ---
 To install the last stable version, simply follow the instructions on http://willbedeletedsoon-negevvo.epizy.com/rmsfmweb/
 If you want to be this annoying person that doesn't like to do things as they should, clone this repo, unzip it, then go to chrome://extensions or edge://extensions (or Opera, or Kiwi, well, you got the idea), turn on developer mode and load the folder.
-After the installation, You just need to open https://web.mashov.info/students/ (or https://web.mashov.info if you're a teacher but for obvious reasons, I couldn't guarantee it'll work).
+After the installation, You just need to open https://web.mashov.info/students/ (or https://web.mashov.info/teachers/ if you're a teacher but for obvious reasons, I couldn't guarantee it'll work).
 Oh, and it also works on BigBlueButton because I tested it there, and why not?
 So... enjoy...? I guess.
 
