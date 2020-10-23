@@ -16,19 +16,25 @@ I decided to make this extension open-source because I wanted you to be able to 
 ---
 In Mashov Plus, you can change your name, profile picture, and more things (like the theme, some words, the [ז] and [נ] tags, and more) in Mashov.
 I made a powerful algorithm so real-time changes to the page (such as new messages in the chat) will also be included.
-***Just a reminder that I am not associated with Mashov (The company) in any way and I am just a bored student.***
+- ***Just a reminder that I am not associated with Mashov (The company) in any way and I am just a bored student.***
 ## Installation
 ---
-To install the last stable version, simply follow the instructions on http://willbedeletedsoon-negevvo.epizy.com/rmsfmweb/
-If you want to be this annoying person that doesn't like to do things as they should, clone this repo, unzip it, then go to chrome://extensions or edge://extensions (or Opera, or Kiwi, well, you got the idea), turn on developer mode and load the folder.
+- To install the last stable version, simply follow the instructions on http://willbedeletedsoon-negevvo.epizy.com/rmsfmweb/
+- If you want to be this annoying person that doesn't like to do things as they should, clone this repo, unzip it, then go to chrome://extensions or edge://extensions (or Opera, or Kiwi, well, you got the idea), turn on developer mode and load the folder.
 After the installation, You just need to open https://web.mashov.info/students/ (or https://web.mashov.info/teachers/ if you're a teacher but for obvious reasons, I couldn't guarantee it'll work).
 Oh, and it also works on BigBlueButton because I tested it there, and why not?
 So... enjoy...? I guess.
 
 ## Screenshots
 
+### Mashov's homepage
+
 <img src="images/screenshot1.jpg" height="350px"/>
 
+### A BigBlueButton online class with and without Mashov Plus
+
 <img src="images/screenshot2.png" width="700px"/>
+
+### Mashov Plus v1.3 (pre release) UI
 
 <img src="images/screenshot3.png" height="350px"/>
