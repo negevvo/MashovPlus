@@ -24,4 +24,5 @@ If you want to be this annoying person that doesn't like to do things as they sh
 After the installation, You just need to open https://web.mashov.info/students/ (or https://web.mashov.info if you're a teacher but for obvious reasons, I couldn't guarantee it'll work).
 Oh, and it also works on BigBlueButton because I tested it there, and why not?
 So... enjoy...? I guess.
-![](images/screenshot1.jpg)
+
+<img src="images/screenshot1.jpg" height="350px"/>
