@@ -48,5 +48,3 @@ This repository is licensed under the [MIT License](https://github.com/negevvo/M
 If you want to copy the code, the repo, or anything else, please include at least one of the following and link it to this Github repo:
 - Copyright (c) 2020 RMSFM by Negev Volokita
 - Copyright (c) 2020 RMSFM by negevvo
-- Code from RMSFM by Negev Volokita
-- Code from RMSFM by negevvo
