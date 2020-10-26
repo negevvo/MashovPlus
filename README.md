@@ -1,5 +1,10 @@
 # MashovPlus
 
+[![](https://img.shields.io/badge/Version-1.3-green.svg)](https://github.com/negevvo/MashovPlus/releases/)
+[![](https://img.shields.io/badge/License-MIT-1abc9c.svg)](license.md)
+[![](https://img.shields.io/badge/Built%20for-Chrome%20and%20Edge-yellow.svg)](https://minis-negevvo.tk/rmsfmweb/)
+
+
 <img src="images/icon.png" height="150px"/>
 
 ---
@@ -22,7 +27,7 @@ I made a powerful algorithm so real-time changes to the page (such as new messag
 - ***Just a reminder that I am not associated with Mashov (The company) in any way and I am just a bored student.***
 ## Installation
 ---
-- To install the last stable version, simply follow the instructions on http://willbedeletedsoon-negevvo.epizy.com/rmsfmweb/
+- To install the last stable version, simply follow the instructions on https://minis-negevvo.tk/rmsfmweb/
 - If you want to be this annoying person that doesn't like to do things as they should, clone this repo, unzip it, then go to chrome://extensions or edge://extensions (or Opera, or Kiwi, well, you got the idea), turn on developer mode and load the folder.
 After the installation, You just need to open https://web.mashov.info/students/ (or https://web.mashov.info/teachers/ if you're a teacher but for obvious reasons, I couldn't guarantee it'll work).
 Oh, and it also works on BigBlueButton because I tested it there, and why not?
@@ -44,7 +49,7 @@ So... enjoy...? I guess.
 
 ## License
 
-This repository is licensed under the [MIT License](https://github.com/negevvo/MashovPlus/blob/main/LICENSE).
+This repository is licensed under the [MIT License](license.md).
 If you want to copy the code, the repo, or anything else, please include at least one of the following and link it to this Github repo:
 - Copyright (c) 2020 RMSFM by Negev Volokita
 - Copyright (c) 2020 RMSFM by negevvo
