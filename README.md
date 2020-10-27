@@ -45,7 +45,7 @@ So... enjoy...? I guess.
 
 ### Mashov Plus v1.3 (pre release) UI
 
-<img src="images/screenshot3.png" height="350px"/>
+<img src="images/screenshot3.jpg" height="350px"/>
 
 ## License
 
