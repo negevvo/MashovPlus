@@ -13,7 +13,7 @@ Mashov Plus (aka RMSFM - Remove My Sex From Mashov) is an open-source Chrome ext
 ## History...? (ps: Nope)
 ---
 Wait, WTF is history?! 
-I literally made this extension like ten days ago.
+I literally made this extension like ten days ago (Created this README at 23.10.2020 so do the math).
 So... what happened 10 days ago you ask?
 Mashov decided to add unchangeable and annoying Male and Female tags to online classes - I hated it (IDK why I just hated it) so I made RMSFM (Remove My Sex From Mashov) - a Chrome extension that... well... removes your sex from mashov (locally but who cares?).
 Then, I realized that I can use the algorithm of the "Sex remover" to change my name and some other words.
