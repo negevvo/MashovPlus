@@ -43,7 +43,7 @@ So... enjoy...? I guess.
 
 <img src="images/screenshot2.png" width="700px"/>
 
-### Mashov Plus v1.3 (pre release) UI
+### Mashov Plus v1.3 UI
 
 <img src="images/screenshot3.jpg" height="350px"/>
 
