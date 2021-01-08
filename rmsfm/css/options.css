@@ -3,8 +3,9 @@ body{
 	background-color: #355222;
 	text-align: center;
 	min-width: 700px;
+	min-height: 500px;
 }
-h1, h2, p, input, a, button{
+h1, h2, h3, p, input, a, button{
 	color: #C5E0B4;
 	font-family: 'Poppins', sans-serif;
 	text-decoration: none;
@@ -23,13 +24,22 @@ input[type="checkbox"]{
 	-moz-box-shadow: 0px 0px 0px 3px #C5E0B4;
 	box-shadow: 0px 0px 0px 3px #C5E0B4;
 }
-input[type="text"], button, input[type="file"], input[type="color"]{
+input[type="text"], button, input[type="file"], input[type="color"], textarea{
 	background-color: #C5E0B4;
 	color: #355222;
 	border: 0px;
 	font-size: 20px;
 	border-radius:10px;
 	margin: 5px;
+	outline: none;
+}
+table{
+	margin-left: auto;
+    margin-right: auto;
+}
+.cssToAdd{
+	min-height: 100px;
+	min-width: 90%;
 }
 #show{
 	display: unset;
@@ -37,13 +47,16 @@ input[type="text"], button, input[type="file"], input[type="color"]{
 #name{
 	display: none;
 }
-#save, #popupsave{
+#save, #popupsave, #stopTemplatePreview{
 	background-color: #e0b3b3;
 	color: #7f3434;
 }
 #save{
 	display: none;
 	animation: fadeIn 2s;
+}
+#stopTemplatePreview{
+	display: none;
 }
 #popupclose{
 	background-color: #b3c9e0;
@@ -63,6 +76,9 @@ hr{
 }
 #updates, #release{
 	color: #b3c9e0;
+}
+.important{
+	color: #e0b3b3;
 }
 .opts{
 	display: none;
